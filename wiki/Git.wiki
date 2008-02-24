@@ -1,0 +1,3 @@
+#summary Git repository
+
+The source code is hosted [http://gitweb.freedesktop.org/?p=users/felipec/gst-player.git here].
