@@ -1,0 +1,1 @@
+The source code is hosted [here](http://github.com/felipec/gst-player/).
